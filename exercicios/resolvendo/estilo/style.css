@@ -61,7 +61,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 3px 3px 0px black;
-    padding-bottom: 20px;
+    padding-b: 20px;
 }
 
 header h1 {
@@ -213,4 +213,31 @@ div.video > iframe {
    left: 5%;
    width: 90%;
    height: 90%;
+ 
+}
+
+div.video1 {
+    background-color: var(--cor5);
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    position: relative;
+    padding-bottom: 56%;
+    margin-top: 20px;
+}
+
+div.video1 > iframe {
+   position: absolute;
+   top: 5%;
+   left: 5%;
+   width: 90%;
+   height: 90%;
+}
+
+
+.imgc {
+    width: 50%;
+    margin: auto;
+    display: block;
+    padding-bottom: 20px;
+
 }
