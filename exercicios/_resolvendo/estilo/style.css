@@ -48,13 +48,15 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 30px;
+
 }
 
 header > p {
     color: white;
     font-family: var(--font-padrao);
     font-size: 1.2em;
-    width: 500px;
+    max-width: 450px;
+    min-width: 200px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
