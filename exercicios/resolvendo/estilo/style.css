@@ -61,7 +61,7 @@ header > p {
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 3px 3px 0px black;
-    margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 
 header h1 {
